@@ -11,7 +11,7 @@ function DisplayCards(){
         data.forEach((item ,index) => {
             console.log(item,index)
     container.innerHTML += `
-        <div data-index="${index}" class="card  col-6 col-md-4 col-lg-3  border-0">
+        <div data-index="${index}" class="card  col-6 col-md-4 col-lg-3  border-0 bg-transparent">
           <div class="item position-relative">  
                 <img src=${item.img} class="w-100 rounded" alt="">
            

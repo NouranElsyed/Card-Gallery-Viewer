@@ -1,3 +1,8 @@
+body{
+    background-image: url(./images/5096160.jpg);
+    background-size: cover;
+    background-position: center;
+}
 .caption{
     bottom: 10px;
     right: 10px;
