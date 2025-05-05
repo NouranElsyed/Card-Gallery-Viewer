@@ -4,7 +4,7 @@ let AllCards = []
 let cards;
 
 function DisplayCards(){
-    fetch('data.json')
+    fetch('data.JSON')
     .then(response => response.json())
     .then(data => {
         AllCards = data
