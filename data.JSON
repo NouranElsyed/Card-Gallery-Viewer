@@ -1,0 +1,43 @@
+[
+    {
+      "img": "./images/photo1.jpg",
+      "title": "Item title",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "img": "./images/photo2.jpg",
+      "title": "Item title",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "img": "./images/photo3.jpg",
+      "title": "Item title",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "img": "./images/photo4.jpg",
+        "title": "Item title",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "img": "./images/photo5.jpg",
+        "title": "Item title",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "img": "./images/photo4.jpg",
+        "title": "Item title",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+          "img": "./images/photo2.jpg",
+          "title": "Item title",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "img": "./images/photo3.jpg",
+          "title": "Item title",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+  ]
+  
